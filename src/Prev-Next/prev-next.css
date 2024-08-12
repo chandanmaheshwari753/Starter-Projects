@@ -1,11 +1,11 @@
-/* * {
-  box-sizing: border-box;
-} */
-
-body {
-  /* background-color: #b399ff; */
+.prev-next {
   font-family: sans-serif;
   background-color: #550e9c;
+  width: 100vw; /* Full width of the viewport */
+  height: 100vh; /* Full height of the viewport */
+  position: absolute; /* Ensures it covers the entire page */
+  top: 0;
+  left: 0;
 }
 
 .steps {
